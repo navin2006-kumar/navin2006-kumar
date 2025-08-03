@@ -1,9 +1,5 @@
-## Hi there 👋 I'M NAVINKUMAR
+#Hey I'm NAVINKUMAR
 
-<!--
-**navin2006-kumar/navin2006-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m currently working Studying on Kgisl Institude Of Technology<br>👯 I’m looking to collaborate on AI, Data Science, and Cybersecurity projects <br>🤝 I’m looking for help with real-world applications of Machine Learning and Cybersecurity tools<br>🌱 I’m currently learning cybersecurity<br>💬 Ask me about<br>⚡ Fun fact: I love exploring tech tools and building side projects that solve everyday problems!
 
@@ -30,4 +26,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=navin2006-kumar&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
