@@ -13,6 +13,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=navin2006-kumar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=navin2006-kumar&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=navin2006-kumar&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=navin2006-kumar&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
